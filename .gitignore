@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+__env__/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency folders
+lib/
+libs/
+dist/
+build/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution/distutils metadata
+*.egg-info/
+dist/
+build/
+
+# Pipenv
+Pipfile.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# System or temporary files
+.DS_Store
+Thumbs.db
+
+# Local development settings
+.env
+
+# Python log files
+*.log
+
+# pyenv
+.python-version
+
+# Site folder
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
